@@ -30,79 +30,112 @@
                     <i class="fa fa-dashboard"></i> <span>Dashboard</span>
                 </a>
             </li>
+
             <li class="header">MASTER</li>
+            <li>
+                <a href="pages/widgets.html">
+                    <i class="fa fa-cube"></i> <span>Kategori</span>
+                    <span class="pull-right-container">
+                        <small class="label label-primary pull-right ">0</small>
+                    </span>
+                </a>
+            </li>
+            <li>
+                <a href="pages/widgets.html">
+                    <i class="fa fa-cubes"></i> <span>Produk</span>
+                    <span class="pull-right-container">
+                        <small class="label label-primary pull-right ">0</small>
+                    </span>
+                </a>
+            </li>
             <li class="treeview">
                 <a href="#">
-                    <i class="fa fa-cube"></i>
-                    <span>Master</span>
+                    <i class="fa fa-archive"></i>
+                    <span>Stock Barang</span>
                     <span class="pull-right-container">
-                        <i class="fa fa-angle-left pull-right"></i>
+                        <span class="label label-primary pull-right">0</span>
                     </span>
                 </a>
                 <ul class="treeview-menu">
-                    <li class="active"><a href="index.html"><i class="fa fa-circle-o"></i>Kategori</a>
-                    </li>
-                    <li class="active"><a href="index.html"><i class="fa fa-circle-o"></i>Produk</a>
-                    </li>
-                    <li class="active"><a href="index.html"><i class="fa fa-circle-o"></i>Customer</a>
-                    </li>
-                    <li class="active"><a href="index.html"><i class="fa fa-circle-o"></i>Suplier</a>
-                    </li>
+                    <li><a href="pages/layout/top-nav.html"><i class="fa fa-circle-o"></i> Jenis Bahan Baku</a></li>
+                    <li><a href="pages/layout/boxed.html"><i class="fa fa-circle-o"></i> Merek Bahan Baku</a></li>
+                    <li><a href="pages/layout/fixed.html"><i class="fa fa-circle-o"></i> Bahan Baku</a></li>
+                    <li><a href="pages/layout/collapsed-sidebar.html"><i class="fa fa-circle-o"></i> Detail
+                            Bahan Baku</a></li>
+                    <li><a href="pages/layout/fixed.html"><i class="fa fa-circle-o"></i> HPP Bahan Baku</a></li>
                 </ul>
             </li>
-
-            <li class="treeview">
-                <a href="#">
-                    <i class="fa fa-money"></i>
-                    <span>Transaksi</span>
-                    <span class="pull-right-container">
-                        <i class="fa fa-angle-left pull-right"></i>
-                    </span>
+            <li>
+                <a href="pages/widgets.html">
+                    <i class="fa fa-truck"></i> <span>Suplier</span>
                 </a>
-                <ul class="treeview-menu">
-                    <li class="active"><a href="index.html"><i class="fa fa-circle-o"></i>Pengeluaran</a>
-                    </li>
-                    <li class="active"><a href="index.html"><i class="fa fa-circle-o"></i>Daftar Pembelian</a>
-                    </li>
-                    <li class="active"><a href="index.html"><i class="fa fa-circle-o"></i>Transaksi Pembelian</a>
-                    </li>
-                    <li class="active"><a href="index.html"><i class="fa fa-circle-o"></i>Daftar Penjualan</a>
-                    </li>
-                    <li class="active"><a href="index.html"><i class="fa fa-circle-o"></i>Transaksi Penjualan</a>
-                    </li>
-                </ul>
             </li>
 
-            <li class="treeview">
-                <a href="#">
-                    <i class="fa fa-tasks"></i>
-                    <span>Report</span>
+            <li class="header">TRANSAKSI</li>
+            <li>
+                <a href="pages/widgets.html">
+                    <i class="fa fa-money"></i> <span>Pengeluaran</span>
                     <span class="pull-right-container">
-                        <i class="fa fa-angle-left pull-right"></i>
+                        <small class="label label-primary pull-right ">0</small>
                     </span>
                 </a>
-                <ul class="treeview-menu">
-                    <li class="active"><a href="index.html"><i class="fa fa-circle-o"></i>Laporan</a>
-                    </li>
-                </ul>
+            </li>
+            <li>
+                <a href="pages/widgets.html">
+                    <i class="fa fa-upload"></i> <span>Pembelian</span>
+                    <span class="pull-right-container">
+                        <small class="label label-primary pull-right ">0</small>
+                    </span>
+                </a>
+            </li>
+            <li>
+                <a href="pages/widgets.html">
+                    <i class="fa fa-download"></i> <span>Penjualan</span>
+                    <span class="pull-right-container">
+                        <small class="label label-primary pull-right ">0</small>
+                    </span>
+                </a>
+            </li>
+            <li>
+                <a href="pages/widgets.html">
+                    <i class="fa fa-cart-arrow-down"></i> <span>Transaksi Lama</span>
+                    <span class="pull-right-container">
+                        <small class="label label-primary pull-right ">0</small>
+                    </span>
+                </a>
+            </li>
+            <li>
+                <a href="pages/widgets.html">
+                    <i class="fa fa-cart-plus"></i> <span>Transaksi Baru</span>
+                    <span class="pull-right-container">
+                        <small class="label label-primary pull-right ">0</small>
+                    </span>
+                </a>
             </li>
 
-            <li class="treeview">
-                <a href="#">
-                    <i class="fa fa-gears"></i>
-                    <span>Pengaturan</span>
+            <li class="header">REPORT</li>
+            <li>
+                <a href="pages/widgets.html">
+                    <i class="fa fa-file-archive-o"></i> <span>Laporan</span>
                     <span class="pull-right-container">
-                        <i class="fa fa-angle-left pull-right"></i>
+                        <small class="label label-primary pull-right ">0</small>
                     </span>
                 </a>
-                <ul class="treeview-menu">
-                    <li class="active"><a href="index.html"><i class="fa fa-circle-o"></i>User</a>
-                    </li>
-                    <li class="active"><a href="index.html"><i class="fa fa-circle-o"></i>Setting</a>
-                    </li>
-                    <li class="active"><a href="index.html"><i class="fa fa-circle-o"></i>Profil</a>
-                    </li>
-                </ul>
+            </li>
+
+            <li class="header">SETIING</li>
+            <li>
+                <a href="pages/widgets.html">
+                    <i class="fa fa-user"></i> <span>User</span>
+                    <span class="pull-right-container">
+                        <small class="label label-primary pull-right ">0</small>
+                    </span>
+                </a>
+            </li>
+            <li>
+                <a href="pages/widgets.html">
+                    <i class="fa fa-cogs"></i> <span>Pengaturan</span>
+                </a>
             </li>
 
             {{-- <li class="header">LABELS</li>
