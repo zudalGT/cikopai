@@ -59,7 +59,7 @@
                 <ul class="treeview-menu">
                     <li><a href="pages/layout/top-nav.html"><i class="fa fa-circle-o"></i> Jenis Bahan Baku</a></li>
                     <li><a href="pages/layout/boxed.html"><i class="fa fa-circle-o"></i> Merek Bahan Baku</a></li>
-                    <li><a href="pages/layout/fixed.html"><i class="fa fa-circle-o"></i> HPP Bahan Baku</a></li>
+                    <li><a href="pages/layout/fixed.html"><i class="fa fa-circle-o"></i> Transaksi</a></li>
                     <li><a href="pages/layout/collapsed-sidebar.html"><i class="fa fa-circle-o"></i> Detail
                             Bahan Baku</a></li>
                 </ul>
